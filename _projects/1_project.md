@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: MC 832
+description: Redes de Computadores
+img: assets/img/teaching/computer_networking.jpg
 importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+category: 2023
+redirect: https://classroom.google.com/u/0/c/MzIzMjEzNzYyOTA5
 ---
 
 Every project has a beautiful feature showcase page.

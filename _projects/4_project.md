@@ -1,10 +1,11 @@
 ---
-layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+# layout: page
+# title: INF-530
+# description: Deep Learning para Redes de Computadores
+# img: assets/img/teaching/deep_learning.jpeg
+# importance: 1
+# category: 2022
+# redirect: https://classroom.google.com/u/0/c/MzIzMjEzNzYyOTA5
 ---
 
 Every project has a beautiful feature showcase page.
