@@ -4,8 +4,8 @@ github_users:
 github_repos:
   - AllanMSouza/FL-H.IAAC
   - AllanMSouza/DEEV
-#   - jekyll/jekyll
-#   - jquery/jquery
+  - AllanMSouza/SPQL
+  - AllanMSouza/FL-HAR
 #   - FortAwesome/Font-Awesome
 #   - jpswalsh/academicons
 #   - mathjax/MathJax
