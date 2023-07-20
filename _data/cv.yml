@@ -1,21 +1,53 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Allan Mariano de Souza
-    - name: Date of Birth
-      value: 7th September 1992
-    - name: Languages
-      value: Portuguese, English,
-
-- title: Education
+- title: 2023
   type: time_table
   contents:
-    - title: PhD
+    - title: <a href="https://classroom.google.com/u/0/c/MzIzMjEzNzYyOTA5"> TIC-IA - Introdução à Inteligência Artificial </a>
+      year: 2023
+      description: Disciplina do treinamento de capacitação profissional em tecnologias de inteligência artificial
       institution: University of Campinas, Campinas, Brazil
+
+    - title: <a href="https://classroom.google.com/u/0/c/MzIzMjEzNzYyOTA5"> TIC-IA - Frameworks de Deep Learning </a>
+      year: 2023
+      description: Disciplina do treinamento de capacitação profissional em tecnologias de inteligência artificial
+      institution: University of Campinas, Campinas, Brazil
+
+    - title: <a href="https://classroom.google.com/u/0/c/MzIzMjEzNzYyOTA5"> INF-518 - Técnicas de Aprendizado de Máquina para Redes de Computadores </a>
+      year: 2023
+      institution: University of Campinas, Campinas, Brazil
+      description: Disciplina do Curso de Especialista em Redes de Computadores
+
+    - title: <a href="https://classroom.google.com/u/0/c/MzIzMjEzNzYyOTA5"> INF-530 - Deep Learning para Redes de Computadores </a>
+      year: 2023
+      institution: University of Campinas, Campinas, Brazil
+      description: Disciplina do Curso de Especialista em Redes de Computadores
+
+- title: 2022
+  type: time_table
+  contents:
+    - title: <a href="https://classroom.google.com/u/0/c/MzIzMjEzNzYyOTA5"> INF-518 - Técnicas de Aprendizado de Máquina para Redes de Computadores </a>
+      year: 2022
+      institution: University of Campinas, Campinas, Brazil
+      description: Disciplina do Curso de Especialista em Redes de Computadores
+
+    - title: <a href="https://classroom.google.com/u/0/c/MzIzMjEzNzYyOTA5"> INF-530 - Deep Learning para Redes de Computadores </a>
+      year: 2022
+      institution: University of Campinas, Campinas, Brazil
+      description: Disciplina do Curso de Especialista em Redes de Computadores
+
+
+- title: 2021
+  type: time_table
+  contents:
+    - title: <a href="https://classroom.google.com/u/0/c/MzIzMjEzNzYyOTA5"> INF-518 - Técnicas de Aprendizado de Máquina para Redes de Computadores </a>
       year: 2021
-#       description:
-#         - title: Double Diplona with University of Bern, Bern, Switzerland
+      institution: University of Campinas, Campinas, Brazil
+      description: Disciplina do Curso de Especialista em Redes de Computadores
+
+    - title: <a href="https://classroom.google.com/u/0/c/MzIzMjEzNzYyOTA5"> INF-530 - Deep Learning para Redes de Computadores </a>
+      year: 2021
+      institution: University of Campinas, Campinas, Brazil
+      description: Disciplina do Curso de Especialista em Redes de Computadores
+      preview: assets/img/1.jpg
       
 #     - title: Masters
 #       institution: University of Campinas, Campinas, Brazil

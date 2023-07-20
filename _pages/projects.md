@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 permalink: /projects/
 description: ..
-nav: true
+nav: false
 nav_order: 5
 display_categories: [2023, ]
 horizontal: false
