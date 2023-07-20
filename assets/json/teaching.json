@@ -1,18 +1,1 @@
-{
-  "courses": [
-    {
-      "institution": "University of Campinas, Campinas, Brazil",
-      "url": "https://ic.unicamp.br/",
-      "area": "Federated Learning",
-      "studyType": "Postdoctoral",
-      "startDate": "2021-08-01",
-      "endDate": "-",
-      "score": "",
-      "courses": [
-        "Artificial Inteligence",
-        "Distributed Systems"
-      ]
-
-    }
-  ]
-}
+{"courses":[{"institution":"University of Campinas, Campinas, Brazil","url":"https://ic.unicamp.br/","area":"Federated Learning","studyType":"Postdoctoral","startDate":"2021-08-01","endDate":"-","score":"","courses":["Artificial Inteligence","Distributed Systems"]}]}
