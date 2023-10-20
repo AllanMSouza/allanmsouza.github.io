@@ -845,3 +845,64 @@ abbr={ICEIS}
  abbr={WTG},
  abstract={O aprendizado federado é uma técnica de aprendizado de máquina distribuído que permite que vários dispositivos colaborem no treinamento de um modelo de dados comum, enquanto preserva a privacidade dos dados do usuário. No entanto, o aprendizado federado apresenta desafios relacionados aos dados não identicamente distribuídos e balanceados, o que pode resultar em modelos menos precisos. Dessa forma, foi proposto o NeuralMatch, um arcabouço para identificar similaridade de modelos para aprendizado federado, capaz de identificar a similaridade entre os clientes sem o compartilhamento de dados. O arcabouço proposto pode ajudar a desenvolver soluções mais eficientes de aprendizado federado para lidar com os problemas de dados não identicamente balanceados e distribuídos.}
 }
+
+
+@article{DACOSTA2023103300,
+title = {Mobility-aware Vehicular Cloud formation mechanism for Vehicular Edge Computing environments},
+journal = {Ad Hoc Networks},
+volume = {151},
+pages = {103300},
+year = {2023},
+issn = {1570-8705},
+doi = {https://doi.org/10.1016/j.adhoc.2023.103300},
+url = {https://www.sciencedirect.com/science/article/pii/S1570870523002202},
+author = {Joahannes B.D. {da Costa} and Wellington Lobato and Allan M. {de Souza} and Eduardo Cerqueira and Denis Rosário and Christoph Sommer and Leandro A. Villas},
+keywords = {Mobility prediction, Vehicular Edge Computing, Vehicular Cloud formation, Clustering},
+abstract = {Rapid advancements in vehicular technology and increased vehicle modernization have led to the emergence of intelligent and interconnected entities. As a result, the Vehicular Edge Computing (VEC) paradigm has gained prominence. This paradigm enables the provision of cloud computing services close to vehicular users by utilizing the idle computational resources of vehicles to execute tasks that require computing power beyond what is available locally. Aggregating these computational resources in the vehicular context is known as Vehicular Cloud (VCloud) formation. However, leveraging and aggregating these resources poses several challenges due to the dynamic nature of the vehicular environment. One of the main challenges is the efficient selection of vehicles to assume management roles in the distribution of computational power within the group, often referred to as leading vehicles. This research presents a mobility-aware mechanism called PREDATOR to enhance the VCloud formation process. In this mechanism, the Roadside Unit (RSU) provides vehicular mobility predictions, enabling the selection of the most stable vehicles within the RSU coverage area to assume leadership roles in the VCloud. In this context, vehicle stability is associated with a vehicle’s time within the RSU coverage area, known as dwell time. PREDATOR employs a microscopic perspective to select vehicles with the longest dwell time in the VCloud, allowing for efficient management of computational resource utilization. Simulation results have demonstrated that PREDATOR not only increases the VCloud lifetime but also minimizes leader changes, reduces network message exchange, mitigates packet collisions, and facilitates the effective utilization of aggregated vehicular resources compared to state-of-the-art approaches.},
+abbr={Ad Hoc networks}
+}
+
+@article{Sanches2023,
+  author = {Sanches, M. F. and de Sá, J. M. C. and Allan M. {de Souza}, R. R. and et al.},
+  title = {Automatic Extraction of Conversation Flows from Human Dialogues: Understanding Their Impact to Refine NLP Models},
+  journal = {Spriger Nature Computer Science},
+  volume = {4},
+  pages = {706},
+  year = {2023},
+  doi = {10.1007/s42979-023-02148-7},
+  url = {10.1007/s42979-023-02148-7},
+  abbr={SN Compt. Sci.}
+  abstract={In recent years, extensive state-of-the-art research has been conducted on natural language processing (NLP) issues. This includes improved text generation and text comprehension models. These solutions are deeply data dependent, as models use high-quality data. The need for more data in a particular language severely restricts the number of available datasets. This investigation proposes methodology for creating conversational datasets (MCCD), designed to extract multi-turn and multi-user conversational datasets. MCCD can obtain data from existing sources and identify multiple answers to the same message to create conversation flows for the extracted datasets. MCCD creates larger datasets suited to question answering (Questions & Answers (QA)) of open-domain conversational agents. In addition, this article proposes a tool based on MCCD to assist future researchers and applications. Our software tool was applied to extract two human conversation datasets. The evaluation of our methodology and resulted datasets was conducted based on the training of a Portuguese NLP model. We explored the outcome models in a classification task, obtaining better results than a state-of-the-art models.}
+}
+
+@INPROCEEDINGS{10257194,
+  author={Maciel, Filipe and De Souza, Allan M. and Bittencourt, Luiz F. and Villas, Leandro A.},
+  booktitle={2023 19th International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT)}, 
+  title={Resource Aware Client Selection for Federated Learning in IoT Scenarios}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-8},
+  abstract={Machine learning optimizes performance in many embedded applications. A weak point of many learning solutions is the intensive use of data and computational resources required for training the model. By default, client devices send data to a solution developer's server to execute the training process in a more computationally powerful environment. However, this approach can compromise the client's privacy, as data is transmitted to third parties for processing. Federated learning solves this problem by training the model on the client devices, thus without sharing data. The trained models are then aggregated on the server to create a generalized version that can run on every client. The federated learning protocol involves selecting which clients will participate in each training round, with selection criteria focused on maximizing the number of clients per round, controlling fairness, lowering round discards, and managing resources. However, existing selection algorithms neglect the minimization of battery consumption, which is critical in scenarios where clients have limited resources. In this paper we propose a client selection mechanism for a federated learning protocol that considers energy, processing capacity, and network quality as determinant criteria for decision. Compared to a state-of-the-art selection technique, our algorithm saves resources while maintaining the model's accuracy.},
+  keywords={},
+  doi={10.1109/DCOSS-IoT58021.2023.00010},
+  url={10.1109/DCOSS-IoT58021.2023.00010},
+  ISSN={2325-2944},
+  abbr={IEEE DCOSS},
+  month={June},}
+
+@INPROCEEDINGS{10257293,
+  author={Capanema, Cláudio G. S. and de Souza, Allan M. and Silva, Fabrício A. and Villas, Leandro A. and Loureiro, Antonio A. F.},
+  booktitle={2023 19th International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT)}, 
+  title={FedPredict: Combining Global and Local Parameters in the Prediction Step of Federated Learning}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={17-24},
+  abstract={In traditional Federated Learning (FL), such as FedAvg, the main objective is to compute a generalized model applied to all clients. This approach is not effective in the non-IID scenario, where each client has a specific data distribution. As an alternative, personalized FL has proven to be an important research direction for dealing with clients' particularities. However, part of these solutions must be reexamined when a new client (i.e., a few times trained or never trained) is added to the FL process. To address these problems, we propose FedPredict, a simple but effective federated learning approach that combines global and local (i.e., personalized) model parameters of neural networks, considering their evolution and update levels. This combination is essential because our method is a plugin that operates in the prediction/inference step on the FL client side, which means that there is no modification in the learning process, and it can be coupled with other techniques. Compared to state-of-the-art solutions, FedPredict converges faster while achieving greater accuracy in various scenarios, including when new clients are added.},
+  keywords={},
+  doi={10.1109/DCOSS-IoT58021.2023.00012},
+  url={10.1109/DCOSS-IoT58021.2023.00012},
+  ISSN={2325-2944},
+  abbr={IEEE DCOSS},
+  month={June},}

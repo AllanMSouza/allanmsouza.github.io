@@ -1,6 +1,16 @@
 - title: 2023
   type: time_table
   contents:
+    - title: <a href="https://classroom.google.com/u/2/c/NjE2NDYwNjk4NTI4"> MC832A - Redes de Computadores </a>
+      year: 2023
+      description: Disciplina para as turmas de graduação em Engenharia e Ciência da Computação
+      institution: University of Campinas, Campinas, Brazil
+
+    - title: <a href="https://classroom.google.com/u/0/c/NjIzNDAzNzYwNTE5"> INF-0054 - Introdução a Ciência de Dados com Python </a>
+      year: 2023
+      description: Disciplina para curso de Extensão em Tecnologias de Inteligência Artificial
+      institution: University of Campinas, Campinas, Brazil
+
     - title: <a href="https://classroom.google.com/u/0/c/MzIzMjEzNzYyOTA5"> TIC-IA - Introdução à Inteligência Artificial </a>
       year: 2023
       description: Disciplina do treinamento de capacitação profissional em tecnologias de inteligência artificial

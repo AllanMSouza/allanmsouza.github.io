@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Postdoctoral @ H.IAAC University of Campinas, Campinas, Brazil</a>
+subtitle: <a href='#'>Professor @ University of Campinas, Campinas, Brazil</a>
 
 profile:
   align: right
@@ -23,7 +23,6 @@ His main research topics include:
 * Distributed Systems
 * Intelligent Transportation System
 * Machine Learning
-* Vehicular Networking
-
+* Computer Networking
 
 For more information, please check [Curriculum Vitae](cv/)
